@@ -14,4 +14,9 @@ img {
 .myprojects {
     background-color:rgb(117, 178, 222);
     border-radius:16px;
+    text-align:center;
+}
+
+a {
+    color:black;
 }
