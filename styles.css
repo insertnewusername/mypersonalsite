@@ -4,5 +4,14 @@ body {
 
 #heading {
     text-align:center;
+    background-color:rgb(153, 208, 255);
 }
 
+img {
+    border-radius:16px;
+}
+
+.myprojects {
+    background-color:rgb(117, 178, 222);
+    border-radius:16px;
+}
