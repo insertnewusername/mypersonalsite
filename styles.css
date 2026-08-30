@@ -20,3 +20,13 @@ img {
 a {
     color:black;
 }
+
+#followme {
+    background-color:rgb(12, 121, 160);
+    border-radius:16px;
+    text-decoration:none;
+    padding: 8px 20px;
+    color:white;
+    font-weight:bold;
+    text-align:center;
+}
