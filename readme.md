@@ -8,9 +8,10 @@ Features: Introduction about me, an image of my profile picture, a section about
 
 There are three main sections:
 
-Intro about me at the top
-My finished projects
-Follow me on stardance
+Intro about me at the top<br>
+My finished projects<br>
+Follow me on stardance<br>
+Thank you thing at bottom <br>
 
 Screenshot/s:
 
