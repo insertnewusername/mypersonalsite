@@ -1,5 +1,5 @@
-My personal site
-Demo url: insertnewusername.github.io/mypersonalsite/
+My personal site<br>
+Demo url: insertnewusername.github.io/mypersonalsite/<br>
 This is a simple site, about me! Built using HTML and CSS for a stardance project. It is a website about me and my stuff
 
 It was built using html and css, so it's very simple.
